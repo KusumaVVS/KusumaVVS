@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const productDiv = document.createElement('div');
                 productDiv.className = 'product';
                 productDiv.innerHTML = `
-                    <img src="download.jpeg" alt="₹{Rog laptop}">
+                    <img src="roglaptop.jpeg" alt="₹{Rog laptop}">
                     <h3>₹{Rog Gaming Laptop}</h3>
                     <p>₹{80000}
                     <img src="JBL-Headphones.webp" alt="₹{Headphones}">
