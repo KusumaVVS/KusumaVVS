@@ -53,28 +53,28 @@ document.addEventListener('DOMContentLoaded', () => {
                     <img src="JBL-Headphones.webp" alt="₹{Headphones}">
                     <h3>₹{JBL Headphones}</h3>
                     <p>₹{5000}
-                    <img src="philips Headset.jpeg" alt="₹{Headphones}">
+                    <img src="philips Headset.webp" alt="₹{Headphones}">
                     <h3>₹{philips wireless Headphones}</h3>
                     <p>₹{5500}
-                    <img src="Gaming Headphones.webp" alt="₹{Headphones}">
+                    <img src="gamingheadphones.jpg" alt="₹{Headphones}">
                     <h3>₹{Gaming Headphones}</h3>
                     <p>₹{10000}
-                    <img src="Tshirt(1).jpeg" alt="₹{tshirt}">
+                    <img src="Tshirt.avif" alt="₹{tshirt}">
                     <h3>₹{Tshirt}</h3>
                     <p>₹{500}
-                    <img src="Tshirt(2).jpeg" alt="₹{tshirt}">
+                    <img src="Tshirt2.webp" alt="₹{tshirt}">
                     <h3>₹{Tshirt}</h3>
                     <p>₹{700}
-                    <img src="Tshirt(3).jpeg" alt="₹{tshirt}">
+                    <img src="Tshirt3.webp" alt="₹{tshirt}">
                     <h3>₹{Black Tshirt}</h3>
                     <p>₹{850}
-                    <img src="OIP.jpeg" alt="₹{Watch}">
+                    <img src="watch.webp" alt="₹{Watch}">
                     <h3>₹{Watch}</h3>
                     <p>₹{2000}
-                    <img src="casio.jpeg" alt="₹{watch}">
+                    <img src="watch2.webp" alt="₹{watch}">
                     <h3>₹{watch}</h3>
                     <p>₹{3000}
-                    <img src="pen.jpg" alt="₹{pen}">
+                    <img src="pen.webp" alt="₹{pen}">
                     <h3>₹{Fulgor Nocturnus pen}</h3>
                     <p>₹{200000}
                     </p>
